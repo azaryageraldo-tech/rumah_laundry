@@ -1,4 +1,4 @@
-<h1> LANGKAH DAN CARA INSTALASI WEB RUMAH LANDRY </h1>
+<h1> LANGKAH DAN CARA INSTALASI WEB RUMAH LANDRY(OPEN SOURCE) </h1>
 
 - setelah download. extract file zip yang sudah didownload. masukkan kedalam satu folder. dan beri nama rumah_laundry.
 - copy atau cut folder rumah_laundry ke xampp/htdocs/ kemudian paste.
